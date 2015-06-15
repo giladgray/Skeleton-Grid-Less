@@ -1,11 +1,11 @@
 {
-  "name": "Skeleton-Less",
+  "name": "Skeleton-Grid-Less",
   "version": "2.0.4",
-  "homepage": "https://github.com/whatsnewsaes/Skeleton-Less",
+  "homepage": "https://github.com/giladgray/Skeleton-Grid-Less",
   "authors": [
-    "Seth Coelen <scoelen89@gmail.com> (http://SethCoelen.com)"
+    "Gilad Gray <giladgray@gmail.com>"
   ],
-  "description": "The (un)official Less Version of Skeleton (2.0.4): A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development",
+  "description": "The Skeleton (2.0.4) Grid build in Less",
   "main": "less/skeleton.less",
   "keywords": [
     "skeleton",
