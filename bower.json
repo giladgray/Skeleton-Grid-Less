@@ -6,7 +6,7 @@
     "Gilad Gray <giladgray@gmail.com>"
   ],
   "description": "The Skeleton (2.0.4) Grid build in Less",
-  "main": "less/skeleton.less",
+  "main": "css/skeleton.css",
   "keywords": [
     "skeleton",
     "less",
